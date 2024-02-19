@@ -1,6 +1,6 @@
 Hola 👋
 
-Soy economista y maestro en estadística aplicada por la Universidad Veracruzana 👨‍🎓. Como parte de mi formación académica realicé mi servicio social en el Consejo Estatal de Población (COESPO) del Estado de Veracruz en donde adquirí una pasión por temas de estadística 📊, demografía 👥 y análisis espacial 🗺️.
+Soy economista y maestro en estadística aplicada por la Universidad Veracruzana. Como parte de mi formación académica realicé mi servicio social en el Consejo Estatal de Población (COESPO) del Estado de Veracruz en donde adquirí una pasión por temas de estadística 📊, demografía 👥 y análisis espacial 🗺️.
 
 Actualmente trabajo en la Dirección de Información Estadística del Consejo de Evaluación de la Ciudad de México en donde colaboro en la medición, análisis, seguimiento y difusión de estadísticas en materia de desarrollo social 🧑🏻‍💻📊.
 
