@@ -6,4 +6,4 @@ Actualmente trabajo en la Dirección de Información Estadística del Consejo de
 
 Durante mi trayectoría profesional he utilizado distintos lenguas de programación orientados al análisis de datos (R, SAS, Stata) 🧑🏻‍💻, así como Sistemas de Información Geográfica (Qgis & ArcMap) 🌐. Actualmente estoy profundizando mis conocimientos en Python 🐍.
 
-En 2023 obtuve una mención honrífica 🏆 en el Datatón sobre niñez y adolescencia en México organizado por la Red por los Derechos de la Infancia (REDIM) con el proyecto titulado Visualizador de datos de pobreza de Niñas, Niños y Adolescentes 👶🏽👧🏽🧒🏽. Esta aplicación puede consultarse a través de la siguiente liga: https://dacostageo.shinyapps.io/NNA_pobreza/
+En 2023 obtuve una mención honrífica 🏆 en el Datatón sobre niñez y adolescencia en México organizado por la Red por los Derechos de la Infancia en México (REDIM) con el proyecto titulado Visualizador de datos de pobreza de Niñas, Niños y Adolescentes 👶🏽👧🏽🧒🏽. Esta aplicación puede consultarse a través de la siguiente liga: https://dacostageo.shinyapps.io/NNA_pobreza/
