@@ -7,7 +7,7 @@ Hi, my name is Daniel Acosta. I´m an economist specialized in applied statistic
 
 ## 📊 Education
 
- Masters Degrees in Applied Statistics.
+ Master's Degrees in Applied Statistics.
   Universidad Veracruzana
   2014-2016
   
