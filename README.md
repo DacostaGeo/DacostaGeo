@@ -1,7 +1,7 @@
 
 ## 👋 About me
 
-Hi, my name is Daniel Acosta. I´m an economist specialized in applied statistics and the most importan thing I´m data enthusiast 👨🏻‍💻. Throughout my professional career, I have worked with several programming languages for data analysis as well as Geographic Information Systems (GIS). However, in recent years I have worked mainly with the R programming language. I´m particularly interested in topics related to demography, applied statistics and spatial analysis 📊🗺️. 
+Hi, my name is Daniel Acosta. I´m an economist specialized in applied statistics and the most importan thing I´m a data enthusiast 👨🏻‍💻. Throughout my professional career, I have worked with several programming languages for data analysis as well as Geographic Information Systems (GIS). However, in recent years I have worked mainly with the R programming language. I´m particularly interested in topics related to demography, applied statistics and spatial analysis 📊🗺️. 
 
 ## 📊 Education
 
