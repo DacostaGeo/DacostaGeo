@@ -22,8 +22,7 @@ Hi, my name is Daniel Acosta. I´m an economist specialized in applied statistic
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" **alt="R" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>     
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" title="Stata" **alt="Stata" width="50" height="50"/>         
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="Html" **alt="Html" width="40" height="40"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stata/stata-original-wordmark.svg" title="Stata" **alt="Stata" width="50" height="50"/>
       </div>
 </div>
 
